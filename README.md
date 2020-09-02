@@ -220,7 +220,7 @@ and tables.
 
 ## Configuration
 
-Holograph uses a configuration file to define paths and other aspecst for the
+Holograph uses a configuration file to define paths and other aspects for the
 current directory's build parameters.
 
 The default name for the configuration file is `holograph.yml`. Holograph looks
